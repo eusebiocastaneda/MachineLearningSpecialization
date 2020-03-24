@@ -1,2 +1,2 @@
-# MachineLearningSpecialization
-Coursera Course from UW
+# MachineLearning
+Coursera IBM Data Science Professional Certificate
